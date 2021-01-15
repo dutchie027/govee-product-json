@@ -1,0 +1,652 @@
+{
+    "Govee Products": [
+        {
+            "Product Model": "H6107",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "5m MultiColor for Home"
+        },
+        {
+            "Product Model": "H6109",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "2*5 MultiColor with Alexa"
+        },
+        {
+            "Product Model": "H6110",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "2*5 MultiColor with Alexa"
+        },
+        {
+            "Product Model": "H6129",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "MultiColor for Bed"
+        },
+        {
+            "Product Model": "H6138",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "5m MultiColor for Home"
+        },
+        {
+            "Product Model": "H6139",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "2*5 MultiColor for Home"
+        },
+        {
+            "Product Model": "H6141",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "5m Smart MultiColor Strip Light"
+        },
+        {
+            "Product Model": "H6142",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "2*5 Smart MultiColor Strip Light"
+        },
+        {
+            "Product Model": "H6148",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "3m Color & White Ambiance with Alexa"
+        },
+        {
+            "Product Model": "H6159",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "5m MultiColor with Alexa"
+        },
+        {
+            "Product Model": "H6160",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "5m MultiColor with Alexa"
+        },
+        {
+            "Product Model": "H6188",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "2m Color & White Ambiance with Alexa"
+        },
+        {
+            "Product Model": "H6915",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "2*10m Smart MultiCOlor Strip Light"
+        },
+        {
+            "Product Model": "H6196",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "2*10m MultiColor Strip Light"
+        },
+        {
+            "Product Model": "H6154",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGB Strip Lights",
+            "Product Name": "2*7.5m RGB Strip Light"
+        },
+        {
+            "Product Model": "H6116",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGBIC Strip Lights",
+            "Product Name": "2*5m RGBIC for Home"
+        },
+        {
+            "Product Model": "H6117",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGBIC Strip Lights",
+            "Product Name": "2*5m RGBIC with Alexa"
+        },
+        {
+            "Product Model": "H6125",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGBIC Strip Lights",
+            "Product Name": "5m RGBIC for Home"
+        },
+        {
+            "Product Model": "H6126",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGBIC Strip Lights",
+            "Product Name": "2*5m RGBIC for Home"
+        },
+        {
+            "Product Model": "H6127",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGBIC Strip Lights",
+            "Product Name": "5m RGBIC for Home"
+        },
+        {
+            "Product Model": "H6143",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGBIC Strip Lights",
+            "Product Name": "5m RGBIC for Home"
+        },
+        {
+            "Product Model": "H6144",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGBIC Strip Lights",
+            "Product Name": "2*5m RGBIC Strip Light"
+        },
+        {
+            "Product Model": "H6145",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGBIC Strip Lights",
+            "Product Name": "5m RGBIC Strip Light"
+        },
+        {
+            "Product Model": "H6146",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGBIC Strip Lights",
+            "Product Name": "2*5m RGBIC Strip Light"
+        },
+        {
+            "Product Model": "H6147",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGBIC Strip Lights",
+            "Product Name": "2*10m RGBIC Strip Light"
+        },
+        {
+            "Product Model": "H6161",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGBIC Strip Lights",
+            "Product Name": "3m RGBIC for Home"
+        },
+        {
+            "Product Model": "H6163",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "RGBIC Strip Lights",
+            "Product Name": "5m RGBIC with Alexa"
+        },
+        {
+            "Product Model": "H6101",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "TV BackLights",
+            "Product Name": "RGBIC for TV"
+        },
+        {
+            "Product Model": "H6102",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "TV BackLights",
+            "Product Name": "2m RGBIC for TV"
+        },
+        {
+            "Product Model": "H6104",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "TV BackLights",
+            "Product Name": "RGBIC for TV with Alexa"
+        },
+        {
+            "Product Model": "H6105",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "TV BackLights",
+            "Product Name": "2m MultiColor for Tv"
+        },
+        {
+            "Product Model": "H6179",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "TV BackLights",
+            "Product Name": "MultiColor TV Strip Light"
+        },
+        {
+            "Product Model": "H6181",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "TV BackLights",
+            "Product Name": "4*50cm MultiColor for TV"
+        },
+        {
+            "Product Model": "H6182",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "TV BackLights",
+            "Product Name": "Wi-FI MultiColor TV Strip Light"
+        },
+        {
+            "Product Model": "H6199",
+            "Product Category": "LED Strip Light",
+            "Product Sub Category": "TV BackLights",
+            "Product Name": "Imersion TV Strip Light"
+        },
+        {
+            "Product Model": "H6001",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "LED Bulbs",
+            "Product Name": "Bluetooth MultiColor LED Bulb"
+        },
+        {
+            "Product Model": "H6003",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "LED Bulbs",
+            "Product Name": "Wi-Fi RGBWW LED Bulb"
+        },
+        {
+            "Product Model": "H6005",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "LED Bulbs",
+            "Product Name": "Bluetooth RGBWW LED Bulb"
+        },
+        {
+            "Product Model": "H6085",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "LED Bulbs",
+            "Product Name": "Wi-Fi Warm White LED Bulb"
+        },
+        {
+            "Product Model": "H6086",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "LED Bulbs",
+            "Product Name": "Wi-Fi RGB LED Bulb"
+        },
+        {
+            "Product Model": "H6089",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "LED Bulbs",
+            "Product Name": "Wi-Fi RGB LED Bulb"
+        },
+        {
+            "Product Model": "H6052",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "Lamps",
+            "Product Name": "Aura Tale Lamp"
+        },
+        {
+            "Product Model": "H6053",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "Lamps",
+            "Product Name": "Flow Light Bar"
+        },
+        {
+            "Product Model": "H6054",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "Lamps",
+            "Product Name": "Flow Lpro Light Bar"
+        },
+        {
+            "Product Model": "H6050",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "Lamps",
+            "Product Name": "Wi-Fi Table Lamp"
+        },
+        {
+            "Product Model": "H6072",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "Lamps",
+            "Product Name": "Lyra Floor Lamp"
+        },
+        {
+            "Product Model": "H6097",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "Ceiling Lights",
+            "Product Name": "Recessed Downlight"
+        },
+        {
+            "Product Model": "H6061",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "Wall Lights",
+            "Product Name": "Wi-Fi DIY Light Panels"
+        },
+        {
+            "Product Model": "H6057",
+            "Product Category": "Indoor Lighting",
+            "Product Sub Category": "Light Show",
+            "Product Name": "Decorative Lighting Projectors"
+        },
+        {
+            "Product Model": "H6170",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "Strip Lights",
+            "Product Name": "Phantasy Outdoor Strip Light"
+        },
+        {
+            "Product Model": "H6171",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "Strip Lights",
+            "Product Name": "Phantasy Pro Outdoor Strip Light"
+        },
+        {
+            "Product Model": "H7060",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "Landscape Lighting",
+            "Product Name": "RGBW Flood Light"
+        },
+        {
+            "Product Model": "H7001",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "MultiColor String Light"
+        },
+        {
+            "Product Model": "H7002",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "LED Bulb String Light"
+        },
+        {
+            "Product Model": "H7022",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "Wi-Fi MultiColor String Light"
+        },
+        {
+            "Product Model": "H7023",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "MultiColor String Light"
+        },
+        {
+            "Product Model": "H7024",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "MultiColor String Light"
+        },
+        {
+            "Product Model": "H7308",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "5m Warm White Copper Wire lights"
+        },
+        {
+            "Product Model": "H7309",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "5m White Copper Wire lights"
+        },
+        {
+            "Product Model": "H7310",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "5m RGB Copper Wire lights"
+        },
+        {
+            "Product Model": "H7311",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "10m Warm White Copper Wire lights"
+        },
+        {
+            "Product Model": "H7312",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "10m RGB Copper Wire lights"
+        },
+        {
+            "Product Model": "H7313",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "20m Warm White Copper Wire lights"
+        },
+        {
+            "Product Model": "H7315",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "3*2m 300LED Curtain Lights"
+        },
+        {
+            "Product Model": "H7317",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "5m RGB Copper Wire lights"
+        },
+        {
+            "Product Model": "H7318",
+            "Product Category": "Outdoor Lighting",
+            "Product Sub Category": "String Lights",
+            "Product Name": "10m RGB Copper Wire lights"
+        },
+        {
+            "Product Model": "H6113",
+            "Product Category": "Other Lights",
+            "Product Sub Category": "Car Lights",
+            "Product Name": "MultiColor for Car"
+        },
+        {
+            "Product Model": "H6114",
+            "Product Category": "Other Lights",
+            "Product Sub Category": "Car Lights",
+            "Product Name": "4*22cm MultiCOlor for Car"
+        },
+        {
+            "Product Model": "H6118",
+            "Product Category": "Other Lights",
+            "Product Sub Category": "Car Lights",
+            "Product Name": "4*22cm Multicolor for Car"
+        },
+        {
+            "Product Model": "H6119",
+            "Product Category": "Other Lights",
+            "Product Sub Category": "Car Lights",
+            "Product Name": "RGBIC lights for Car"
+        },
+        {
+            "Product Model": "H6165",
+            "Product Category": "Other Lights",
+            "Product Sub Category": "Car Lights",
+            "Product Name": "4 LED rock lights"
+        },
+        {
+            "Product Model": "H6166",
+            "Product Category": "Other Lights",
+            "Product Sub Category": "Car Lights",
+            "Product Name": "8 LED rock lights"
+        },
+        {
+            "Product Model": "H6184",
+            "Product Category": "Other Lights",
+            "Product Sub Category": "Car Lights",
+            "Product Name": "RGBIC Car Underglow Light"
+        },
+        {
+            "Product Model": "H6185",
+            "Product Category": "Other Lights",
+            "Product Sub Category": "Car Lights",
+            "Product Name": "Car Underglow Light"
+        },
+        {
+            "Product Model": "H6194",
+            "Product Category": "Other Lights",
+            "Product Sub Category": "Car Lights",
+            "Product Name": "12 Motorcycle LED Lights"
+        },
+        {
+            "Product Model": "H7160",
+            "Product Category": "Other Lights",
+            "Product Sub Category": "Camping Lanterns",
+            "Product Name": "RGBW Camping Lantern"
+        },
+        {
+            "Product Model": "H7004",
+            "Product Category": "Other Lights",
+            "Product Sub Category": "Plant Growing Lights",
+            "Product Name": "LED Plant Grow Light"
+        },
+        {
+            "Product Model": "H7017",
+            "Product Category": "Other Lights",
+            "Product Sub Category": "Plant Growing Lights",
+            "Product Name": "LED Plant Grow Light"
+        },
+        {
+            "Product Model": "H5001",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Electrical",
+            "Product Name": "Smart Light Switch"
+        },
+        {
+            "Product Model": "H5081",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Electrical",
+            "Product Name": "Wi-Fi Plug"
+        },
+        {
+            "Product Model": "H7014",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Electrical",
+            "Product Name": "Smart plug"
+        },
+        {
+            "Product Model": "H5041",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Wi-Fi Smart Gateway"
+        },
+        {
+            "Product Model": "H5051",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Wi-Fi Thermo-Hygrometer"
+        },
+        {
+            "Product Model": "H5052",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Bluetooth Thermo-Hygrometer"
+        },
+        {
+            "Product Model": "H5053",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Wireless Thermo-Hygrometer"
+        },
+        {
+            "Product Model": "H5071",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Wi-Fi Thermo-Hygrometer Pro"
+        },
+        {
+            "Product Model": "H5072",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Bluetooth Thermo-Hygrometer Pro"
+        },
+        {
+            "Product Model": "H5074",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Bluetooth Thermo-Hygrometer Lite"
+        },
+        {
+            "Product Model": "H5075",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Smart Thermo-Hygtrometer"
+        },
+        {
+            "Product Model": "H5101",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Smart Thermo-Hygrometer"
+        },
+        {
+            "Product Model": "H5102",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Smart Thermo-Hygrometer"
+        },
+        {
+            "Product Model": "H5174",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Smart Thermo-Hygrometer"
+        },
+        {
+            "Product Model": "H5177",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Smart Thermo-Hygrometer"
+        },
+        {
+            "Product Model": "B5178",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Smart Thermo-Hygrometer"
+        },
+        {
+            "Product Model": "H5178",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Temp",
+            "Product Name": "Wi-Fi Thermo-Hygrometer"
+        },
+        {
+            "Product Model": "H5055",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Kitchen",
+            "Product Name": "Bluetooth Meat Thermometer"
+        },
+        {
+            "Product Model": "H5181",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Kitchen",
+            "Product Name": "Smart Meat Thermometer"
+        },
+        {
+            "Product Model": "H5183",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Kitchen",
+            "Product Name": "Smart Meat Thermometer"
+        },
+        {
+            "Product Model": "H5010",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Fitness",
+            "Product Name": "Smart Body Fat Scale B1"
+        },
+        {
+            "Product Model": "H5020",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Fitness",
+            "Product Name": "Smart Jump Rope"
+        },
+        {
+            "Product Model": "H0523",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Security",
+            "Product Name": "Contact sensor"
+        },
+        {
+            "Product Model": "H5024",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Security",
+            "Product Name": "Motion sensor"
+        },
+        {
+            "Product Model": "H5026",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Security",
+            "Product Name": "Smart motion sensor"
+        },
+        {
+            "Product Model": "H5040",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Security",
+            "Product Name": "Wi-Fi Smart Gateway"
+        },
+        {
+            "Product Model": "H5054",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Security",
+            "Product Name": "Water Leak Detector"
+        },
+        {
+            "Product Model": "H7205",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Security",
+            "Product Name": "Wireless Voice intercom Dorbell"
+        },
+        {
+            "Product Model": "H7212",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Security",
+            "Product Name": "Baby monitor"
+        },
+        {
+            "Product Model": "H7214",
+            "Product Category": "Home Improvement",
+            "Product Sub Category": "Security",
+            "Product Name": "Baby monitor with multi-sensor"
+        }
+    ]
+}
